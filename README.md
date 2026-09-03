@@ -1,4 +1,4 @@
-# Matteo Vaccargiu — personal academic website draft
+# Matteo Vaccargiu — personal academic website
 
 Static website prepared for `https://matteovaccargiu.github.io`.
 
